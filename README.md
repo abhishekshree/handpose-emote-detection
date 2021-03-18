@@ -3,6 +3,7 @@
 Uses:
  - tfjs
  - [handpose](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
+ - fingerpose
  - React Webcam
 
 This has been a nice implementation of tfjs and an idea of doing Neural nets without the backend explicitly in python.
