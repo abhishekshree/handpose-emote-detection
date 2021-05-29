@@ -6,7 +6,7 @@ Uses:
  - fingerpose
  - React Webcam
 
-It is currently hosted on github-pages(where it predicts slower somehow) [here](https://abhishekshree.github.io/handpose-emote-detection/). Currentlt it detects the thumbs up and peace emojis with hand gestures.
+It is currently hosted on github-pages(where it predicts slower somehow) [here](https://abhishekshree.github.io/handpose-emote-detection/). Currently it detects the thumbs up and peace emojis with hand gestures.
 
 ### `yarn start`
 
