@@ -1,11 +1,11 @@
 # Handpose detection using tensorflow
 
 Uses:
- - tfjs
+ - tensorflow.js
  - [handpose](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
  - React Webcam
 
-This has been a nice implementation of tfjs and an idea of doing Neural nets without the backend explicitly in python.
+It is currently hosted on github-pages(where it predicts slower somehow) [here](https://abhishekshree.github.io/handpose-emote-detection/). Currentlt it detects the thumbs up and peace emojis with hand gestures.
 
 ### `yarn start`
 
