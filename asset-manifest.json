@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/handpose-emote-detection/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/handpose-emote-detection/static/js/main.91feaf10.chunk.js",
+    "main.js.map": "/handpose-emote-detection/static/js/main.91feaf10.chunk.js.map",
+    "runtime-main.js": "/handpose-emote-detection/static/js/runtime-main.8772e677.js",
+    "runtime-main.js.map": "/handpose-emote-detection/static/js/runtime-main.8772e677.js.map",
+    "static/js/2.5e082a52.chunk.js": "/handpose-emote-detection/static/js/2.5e082a52.chunk.js",
+    "static/js/2.5e082a52.chunk.js.map": "/handpose-emote-detection/static/js/2.5e082a52.chunk.js.map",
+    "index.html": "/handpose-emote-detection/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/handpose-emote-detection/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.5e082a52.chunk.js.LICENSE.txt": "/handpose-emote-detection/static/js/2.5e082a52.chunk.js.LICENSE.txt",
+    "static/media/thumbs_up.e3bf974d.png": "/handpose-emote-detection/static/media/thumbs_up.e3bf974d.png",
+    "static/media/victory.8710fbb2.png": "/handpose-emote-detection/static/media/victory.8710fbb2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8772e677.js",
+    "static/js/2.5e082a52.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.91feaf10.chunk.js"
+  ]
+}
